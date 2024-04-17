@@ -1,0 +1,15 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.example-card {
+  flex: 0 0 30%;
+  margin: 1em;
+}
+
+.example-card img {
+  max-width: 100%;
+  height: auto;
+}
